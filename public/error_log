@@ -1,0 +1,1 @@
+[02-Mar-2022 16:58:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare setsuccess() (previously declared in /home/cdo9hjg6ksog/public_html/nihaws/storage/framework/views/9187d387bf8b4c321f331ae006b6fa4b2ad4a841.php:618) in /home/cdo9hjg6ksog/public_html/nihaws/storage/framework/views/9187d387bf8b4c321f331ae006b6fa4b2ad4a841.php on line 618

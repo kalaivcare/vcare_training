@@ -1,0 +1,1 @@
+[26-Apr-2022 08:51:35 UTC] PHP Fatal error:  Cannot declare class Wex, because the name is already in use in /home/cdo9hjg6ksog/public_html/nihaws/public/admin/bower_components/Ionicons/fonts/class.api.php on line 416
